@@ -47,7 +47,7 @@ const Footer = () => {
         {` `}
         <Link
           aria-label="Link to the theme author's website"
-          href="https://www.lekoarts.de?utm_source=cara&utm_medium=Theme"
+          href="https://www.linkedin.com/in/priyatham-sai-chand/"
         >
           Priyatham Sai Chand
         </Link>
