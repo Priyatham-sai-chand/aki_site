@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     siteTitle: `Akkkiiii site`,
-    siteTitleAlt: `Cara - @lekoarts/gatsby-theme-cara`,
+    siteTitleAlt: `Akkkiiii's site`,
     siteHeadline: ``,
     siteUrl: `localhost:8080`,
     siteDescription: ``,

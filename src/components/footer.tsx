@@ -41,7 +41,7 @@ const Footer = () => {
           sx={{ ml: 2 }}
           href="https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-cara"
         >
-          Theme
+
         </Link>
         <div sx={{ mx: 1 }}>by</div>
         {` `}
@@ -49,7 +49,7 @@ const Footer = () => {
           aria-label="Link to the theme author's website"
           href="https://www.lekoarts.de?utm_source=cara&utm_medium=Theme"
         >
-          LekoArts
+          Priyatham Sai Chand
         </Link>
       </Flex>
     </Box>
